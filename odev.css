@@ -1,0 +1,24 @@
+h2{
+    color: rgb(122, 4, 24);
+    padding-top: 10px;
+ }
+ a{
+padding: 10px;
+color: purple;
+ }
+ h3{
+    color: purple ;
+    text-align: center;
+    padding: 10px;
+ }
+ h4{
+    color: rgb(184, 184, 21);
+ }
+ul li{
+    color: purple ;
+   
+}
+img{
+    width: 480px;
+    height: 480px;
+}
